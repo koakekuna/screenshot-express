@@ -1,0 +1,27 @@
+{
+  "name": "screenshot-express",
+  "version": "1.0.0",
+  "description": "Node app that screenshots websites using Microsoft's Playwright",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://koakekuna@github.com/koakekuna/screenshot-express.git"
+  },
+  "keywords": [
+    "node",
+    "playwright"
+  ],
+  "author": "Koa Kekuna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koakekuna/screenshot-express/issues"
+  },
+  "homepage": "https://github.com/koakekuna/screenshot-express#readme"
+}
